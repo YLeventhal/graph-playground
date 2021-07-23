@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/graph-playground/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/graph-playground/static/js/main.7080a11f.chunk.js",
-    "main.js.map": "/graph-playground/static/js/main.7080a11f.chunk.js.map",
-    "runtime-main.js": "/graph-playground/static/js/runtime-main.01aabffb.js",
-    "runtime-main.js.map": "/graph-playground/static/js/runtime-main.01aabffb.js.map",
-    "static/js/2.169a0315.chunk.js": "/graph-playground/static/js/2.169a0315.chunk.js",
-    "static/js/2.169a0315.chunk.js.map": "/graph-playground/static/js/2.169a0315.chunk.js.map",
-    "static/js/3.951347d4.chunk.js": "/graph-playground/static/js/3.951347d4.chunk.js",
-    "static/js/3.951347d4.chunk.js.map": "/graph-playground/static/js/3.951347d4.chunk.js.map",
+    "main.css": "/graph-playground/static/css/main.b30a61fc.chunk.css",
+    "main.js": "/graph-playground/static/js/main.3024d9c1.chunk.js",
+    "main.js.map": "/graph-playground/static/js/main.3024d9c1.chunk.js.map",
+    "runtime-main.js": "/graph-playground/static/js/runtime-main.29c5ef0a.js",
+    "runtime-main.js.map": "/graph-playground/static/js/runtime-main.29c5ef0a.js.map",
+    "static/js/2.0363d241.chunk.js": "/graph-playground/static/js/2.0363d241.chunk.js",
+    "static/js/2.0363d241.chunk.js.map": "/graph-playground/static/js/2.0363d241.chunk.js.map",
+    "static/js/3.7cc20903.chunk.js": "/graph-playground/static/js/3.7cc20903.chunk.js",
+    "static/js/3.7cc20903.chunk.js.map": "/graph-playground/static/js/3.7cc20903.chunk.js.map",
     "index.html": "/graph-playground/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/graph-playground/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.169a0315.chunk.js.LICENSE.txt": "/graph-playground/static/js/2.169a0315.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/graph-playground/static/media/logo.6ce24c58.svg"
+    "static/css/main.b30a61fc.chunk.css.map": "/graph-playground/static/css/main.b30a61fc.chunk.css.map",
+    "static/js/2.0363d241.chunk.js.LICENSE.txt": "/graph-playground/static/js/2.0363d241.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.01aabffb.js",
-    "static/js/2.169a0315.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.7080a11f.chunk.js"
+    "static/js/runtime-main.29c5ef0a.js",
+    "static/js/2.0363d241.chunk.js",
+    "static/css/main.b30a61fc.chunk.css",
+    "static/js/main.3024d9c1.chunk.js"
   ]
 }
